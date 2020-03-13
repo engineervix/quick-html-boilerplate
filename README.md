@@ -1,6 +1,7 @@
 # quick-html-boilerplate
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+
 [![Dependency Status](https://david-dm.org/engineervix/quick-html-boilerplate/status.svg?style=flat)](https://david-dm.org/engineervix/quick-html-boilerplate) [![devDependencies Status](https://david-dm.org/engineervix/quick-html-boilerplate/dev-status.svg)](https://david-dm.org/engineervix/quick-html-boilerplate?type=dev)
 
 ## About this
