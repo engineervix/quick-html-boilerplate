@@ -1,6 +1,8 @@
 # quick-html-boilerplate
 
-![Screenshot](https://i.imgur.com/8N95Om7.png)
+![Desktop Screenshot](https://i.imgur.com/8N95Om7.png)
+
+![Mobile Screenshot](https://i.imgur.com/bkGdal3.jpg)
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
@@ -35,7 +37,7 @@ A dead simple and quick html starter kit for prototyping web development project
 2. Navigate to the cloned project directory: `cd quick-html-boilerplate`
 3. Install dependencies: `npm install`
 4. Copy the vendor libraries into the `static/vendors` directory: `gulp cp`
-5. Start the development server: `npm run dev`
+5. Start the development server: `npm run dev`. If you have `lite-server`, simply run `lite-server`.
 
 ## Credits
 
