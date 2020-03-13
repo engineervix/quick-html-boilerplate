@@ -131,6 +131,3 @@ tmp/
 temp/
 
 # End of https://www.gitignore.io/api/node,code,linux
-
-static/vendors/*
-!static/vendors/.gitkeep 
