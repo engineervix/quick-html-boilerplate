@@ -1,0 +1,38 @@
+{
+    "name": "quick-html-boilerplate",
+    "version": "0.0.1",
+    "description": "A dead simple and quick html starter kit for prototyping web development projects",
+    "main": "index.html",
+    "author": "Victor Miti",
+    "license": "MIT",
+    "scripts": {
+        "dev": "concurrently --raw --kill-others 'python3 -m http.server' 'gulp'"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/engineervix/quick-html-boilerplate.git"
+    },
+    "keywords": [
+        "html",
+        "boilerplate"
+    ],
+    "bugs": {
+        "url": "https://github.com/engineervix/quick-html-boilerplate/issues"
+    },
+    "homepage": "https://github.com/engineervix/quick-html-boilerplate#readme",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.12.1",
+        "bootstrap": "^4.4.1",
+        "bootswatch": "^4.4.1",
+        "jquery": "^3.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.26.7",
+        "del": "^5.1.0",
+        "gulp": "^4.0.2",
+        "gulp-clean-css": "^4.2.0",
+        "gulp-npm-dist": "^1.0.3",
+        "gulp-rename": "^2.0.0",
+        "gulp-uglify": "^3.0.2"
+    }
+}
