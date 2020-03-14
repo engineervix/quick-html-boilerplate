@@ -6,7 +6,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
-[![Dependency Status](https://david-dm.org/engineervix/quick-html-boilerplate/status.svg?style=flat)](https://david-dm.org/engineervix/quick-html-boilerplate) [![devDependencies Status](https://david-dm.org/engineervix/quick-html-boilerplate/dev-status.svg)](https://david-dm.org/engineervix/quick-html-boilerplate?type=dev) [![dependabot](https://badgen.net/dependabot/engineervix/quick-html-boilerplate/?icon=dependabot)](https://dependabot.com/)
+[![Dependency Status](https://badgen.net/david/dep/engineervix/quick-html-boilerplate)](https://david-dm.org/engineervix/quick-html-boilerplate) [![devDependencies Status](https://badgen.net/david/dev/engineervix/quick-html-boilerplate)](https://david-dm.org/engineervix/quick-html-boilerplate?type=dev) [![dependabot](https://badgen.net/dependabot/engineervix/quick-html-boilerplate/?icon=dependabot)](https://dependabot.com/)
 
 ## About this
 
