@@ -1,8 +1,6 @@
 # quick-html-boilerplate
 
-![Desktop Screenshot](https://i.imgur.com/8N95Om7.png)
-
-![Mobile Screenshot](https://i.imgur.com/bkGdal3.jpg)
+![Desktop & Mobile Screenshots Side by Side](https://i.imgur.com/WeJnVoH.jpg)
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
