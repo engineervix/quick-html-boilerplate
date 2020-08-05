@@ -22,7 +22,7 @@
     "homepage": "https://github.com/engineervix/quick-html-boilerplate#readme",
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.14.0",
-        "bootstrap": "^4.4.1",
+        "bootstrap": "^4.5.1",
         "bootswatch": "^4.4.1",
         "jquery": "^3.5.1"
     },
