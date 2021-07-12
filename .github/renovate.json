@@ -1,5 +1,6 @@
 {
   "extends": ["config:base"],
+  "semanticCommits": "enabled",
   "pin": {
     "automerge": true,
     "labels": ["dependencies"]
@@ -8,7 +9,8 @@
     {
       "matchDepTypes": ["devDependencies"],
       "automerge": true,
-      "labels": ["dependencies"]
+      "labels": ["dependencies"],
+      "semanticCommitType": "build"
     },
     {
       "matchLanguages": ["javascript"],
