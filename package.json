@@ -28,7 +28,7 @@
     },
     "devDependencies": {
         "browser-sync": "3.0.3",
-        "del": "7.1.0",
+        "del": "8.0.0",
         "gulp": "5.0.0",
         "gulp-clean-css": "4.3.0",
         "gulp-npm-dist": "1.0.4",
